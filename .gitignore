@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+bin/
+*.exe
+*.o
+*.a
+*.obj
+*.pdb
+*.ilk
+
+# VS Code / IDE
+.vscode/
+.vs/
+
+# Generated plot images
+signal.png
